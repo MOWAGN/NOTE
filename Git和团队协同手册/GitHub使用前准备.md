@@ -41,3 +41,18 @@ The key's randomart image is:
 
 
 ## 创建远程仓库
+### 创建界面选项
+- 仅列出需要注意项
+- Public、Private
+    - 选择 Public，创建公开仓库，仓库内的所有内容都会被公开。选择 Private 可以创建非公开仓库， 用户可以设置访问权限，但这项服务是收费的。
+- Initialize this repository with a README
+    - 勾选GitHub 会自动初始化仓库并设置 README 文件，可以立刻进行clone
+    - 🐖 建议不要勾选，消除因仓库不一致带来的向 GitHub 添加手中已有的 Git 仓库可能存在的报错
+- Add .gitignore
+    - 不需要选择，该文件用来描述 Git 仓库中不需管理的文件与目录。
+    - 这个设定会帮我们把不需要在 Git 仓库中进行版本管
+理的文件记录在 .gitignore 文件中，省去了每次根据框架进行设置的麻
+烦。
+
+### 仓库链接URL
+- `https://github.com/用户名/仓库名`
