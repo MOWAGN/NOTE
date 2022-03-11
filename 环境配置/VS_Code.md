@@ -141,3 +141,20 @@ Path
 （3）vscode-icons
 （4）Bracket Pair Colorizer
 （5）Markdown All in One
+
+## 常见问题
+- 报错：”Please install clang or check configuration ‘clang.executable’“
+    - 错误原因：安装的插件 ”C/C++ Clang Command Adapter“ 和 C/C++ 冲突
+    - 解决方法：安装MinGW，配置环境变量后把这个插件卸掉即可
+
+
+## VScode完全卸载（删除个人配置信息和插件）
+1. 打开软件安装目录，运行“unins000.exe”进行卸载
+    - 此步骤虽然删掉了应用软件，但是此时重新安装会发现之前下载的插件和个人配置信息都还会重新加载出来
+2. 打开路径 `C:\Users\...(当前用户名)\`，删除该路径下的 `.vscode` 文件夹（主要用来放安装的插件）
+![](vx_images/449495420237130.png =700x)
+3. 打开路径 `C:\Users\Administrator\AppData\Roaming`，删除 `Code` 文件夹（主要是用户信息和缓存信息）
+![](vx_images/561495520230264.png =700x)
+- 卸载完成
+
+

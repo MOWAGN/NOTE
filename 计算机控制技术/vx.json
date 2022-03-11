@@ -1,0 +1,31 @@
+{
+    "created_time": "2022-02-28T11:14:59Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-02-28T11:15:08Z",
+            "id": "2",
+            "modified_time": "2022-03-01T07:01:35Z",
+            "name": "课程信息.md",
+            "signature": "79316807102140",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-02-28T12:38:02Z",
+            "id": "3",
+            "modified_time": "2022-03-07T13:11:44Z",
+            "name": "采样过程与信号重构.md",
+            "signature": "67535711814186",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "1",
+    "modified_time": "2022-02-28T11:14:59Z",
+    "signature": "177739706035",
+    "version": 3
+}

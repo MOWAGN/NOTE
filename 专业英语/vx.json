@@ -1,0 +1,41 @@
+{
+    "created_time": "2022-03-03T06:16:23Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-03T06:16:40Z",
+            "id": "2",
+            "modified_time": "2022-03-03T07:15:38Z",
+            "name": "课程概要.md",
+            "signature": "115802554522952",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-03T07:06:34Z",
+            "id": "3",
+            "modified_time": "2022-03-10T07:18:10Z",
+            "name": "作业题目汇总.md",
+            "signature": "2110475233530",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-10T06:15:21Z",
+            "id": "4",
+            "modified_time": "2022-03-10T07:13:15Z",
+            "name": "English Presentation.md",
+            "signature": "113818280236921",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "1",
+    "modified_time": "2022-03-03T06:16:23Z",
+    "signature": "126093296164151",
+    "version": 3
+}
